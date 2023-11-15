@@ -77,12 +77,12 @@ footer {
   .card {
     width: 100%;
     display: block;
-    margin-bottom: 60px;
+    margin-bottom: 30px;
     text-align: justify;
   }
 
   .card img {
-    margin-bottom: 30px;
+    margin-bottom: 20px;
     width: 100%;
     display: inline;
     object-fit: cover;
